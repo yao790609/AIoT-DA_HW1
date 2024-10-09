@@ -136,6 +136,9 @@ Organize the Process: Document the entire process as a README for GitHub.
     streamlit run app.py
     ```
 
+5. Demonstration
+   
+![Demo_Image]([https://github.com/yao790609/AIoT-DA_HW1/blob/main/AIoT-DA_2024_HW1.png)
 ## Contribution
 
 If you have any questions or suggestions, feel free to raise them.
